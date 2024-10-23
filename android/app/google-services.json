@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409444266908",
+    "project_id": "zauntrack-c7a21",
+    "storage_bucket": "zauntrack-c7a21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409444266908:android:1f01b88d3c3b98376e0e59",
+        "android_client_info": {
+          "package_name": "com.example.inventoryManagementApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzCSoFI12a4vaSL64NHJdUyOo1l6Xpf9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
